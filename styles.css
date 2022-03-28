@@ -1,28 +1,57 @@
 body {
-  background-color: beige;
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
 }
-hr {
 
-  border-style: dotted none none;
-  border-color: grey;
-  border-width: 4px;
-  width: 40%
-  }
-
-img {
-  height: 150px;
+div {
+  background-color: #39AEA9;
+  margin-top: 0px;
 }
 
 h1 {
+  width: 30%;
+  margin: 0 auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
 
-  color: cyan;
+h2 {
+  font-family: 'Montserrat', sans-serif;
 }
 
 h3 {
-
-  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
 }
-/***************************CLASS SELECTORS****************/
+
+.top-container {
+  background-color: #39AEA9;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+.engineer {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 30%;
+  bottom: 20%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 30%;
+  top: 10%;
+}
 .circular {
-  border-radius: 100%;
+  border-radius: 50%;
 }
