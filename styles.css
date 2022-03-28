@@ -1,0 +1,28 @@
+body {
+  background-color: beige;
+}
+hr {
+
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 4px;
+  width: 40%
+  }
+
+img {
+  height: 150px;
+}
+
+h1 {
+
+  color: cyan;
+}
+
+h3 {
+
+  color: #66BFBF;
+}
+/***************************CLASS SELECTORS****************/
+.circular {
+  border-radius: 100%;
+}
