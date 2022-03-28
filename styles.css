@@ -55,8 +55,9 @@ h3 {
 .circular {
   border-radius: 50%;
 }
-.basic-skills {
-  max-height:10%;
-  max-width:10%;
+
+.basic-skills{
+  max-width: 10%;
+  max-height: 10%;
+
 }
- 
